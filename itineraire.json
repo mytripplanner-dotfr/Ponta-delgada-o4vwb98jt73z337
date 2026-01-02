@@ -1,0 +1,207 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌸",
+  "titre": "Évasion Douce aux Açores : Sources Chaudes et Paysages Volcaniques",
+  "budget_total": "950-1050€",
+  "duree": "4 jours",
+  "temps_vol": "4h00 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur à Ponta Delgada",
+      "legende": "Après un vol direct, installez-vous tranquillement dans la capitale des Açores. Profitez d'une première balade relaxante le long de la marina et dans les rues historiques, imprégnées de l'architecture typique de l'île. Une introduction parfaite à la sérénité açorienne.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛬 Arrivée à Ponta Delgada</strong>: Atterrissage à l'aéroport João Paulo II (PDL) et transfert vers votre hébergement.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♂️ Balade relaxante dans le centre historique</strong>: Découvrez les Portas da Cidade, l'église de São Sebastião et les charmantes rues pavées. Idéal pour s'imprégner de l'ambiance locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        },
+        {
+          "nom_recherche": "Portas da Cidade, Ponta Delgada",
+          "categorie": "Monument",
+          "coords": { "lat": 37.7865, "lng": -25.6696 }
+        },
+        {
+          "nom_recherche": "Igreja Matriz de São Sebastião, Ponta Delgada",
+          "categorie": "Église",
+          "coords": { "lat": 37.7862, "lng": -25.6699 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Une voiture de location est fortement recommandée pour explorer São Miguel en toute liberté. Réservez-la à l'avance pour de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Immersion Volcanique et Bains Chauds à Furnas",
+      "legende": "Plongez au cœur de l'activité géothermique de São Miguel. Entre jardins luxuriants et sources chaudes naturelles, cette journée est dédiée à la détente et à la découverte des phénomènes volcaniques qui façonnent l'île. Une expérience apaisante et unique.",
+      "lieu": "Furnas",
+      "activites": [
+        "<strong>🌳 Visite du Parque Terra Nostra</strong>: Flânez dans ce jardin botanique exceptionnel et baignez-vous dans sa piscine thermale riche en fer, aux eaux chaudes et orangées.",
+        "<strong>♨️ Découverte des Caldeiras das Furnas</strong>: Observez les fumerolles et les marmites de boue bouillonnante, témoins de l'activité volcanique souterraine. C'est ici que le célèbre \"Cozido das Furnas\" est cuit sous terre.",
+        "<strong>🚶‍♀️ Promenade autour du Lagoa das Furnas</strong>: Profitez d'une balade paisible le long des rives du lac, admirant le paysage verdoyant et la chapelle de Nossa Senhora das Vitórias."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin botanique et sources chaudes",
+          "coords": { "lat": 37.7725, "lng": -25.3134 }
+        },
+        {
+          "nom_recherche": "Caldeiras das Furnas, Furnas",
+          "categorie": "Sources géothermiques",
+          "coords": { "lat": 37.7758, "lng": -25.3138 }
+        },
+        {
+          "nom_recherche": "Lagoa das Furnas, Furnas",
+          "categorie": "Lac",
+          "coords": { "lat": 37.7681, "lng": -25.3090 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Bon à savoir",
+          "texte": "Les eaux de la piscine du Parque Terra Nostra peuvent tacher les maillots de bain clairs. Prévoyez un maillot foncé ou un vieux maillot."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants et Baignade Océanique Thermale",
+      "legende": "Cette journée vous mènera vers les paysages emblématiques de São Miguel, avec des vues imprenables sur les lacs jumeaux de Sete Cidades. L'après-midi sera consacrée à une expérience de baignade unique dans une piscine naturelle chauffée par l'activité volcanique de l'océan.",
+      "lieu": "Sete Cidades et Ferraria",
+      "activites": [
+        "<strong>👀 Admiration au Miradouro da Vista do Rei</strong>: Contemplez la vue iconique sur les lacs bleu et vert de Sete Cidades, un spectacle naturel à couper le souffle.",
+        "<strong>🚶‍♀️ Exploration du village de Sete Cidades</strong>: Descendez dans la caldeira pour découvrir le charmant village niché entre les lacs, avec son église pittoresque.",
+        "<strong>🌊 Détente à Ponta da Ferraria</strong>: Baignez-vous dans une piscine naturelle d'eau de mer chauffée par une source thermale sous-marine. Une expérience relaxante et insolite, surtout à marée basse."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8596, "lng": -25.7904 }
+        },
+        {
+          "nom_recherche": "Sete Cidades, Ponta Delgada",
+          "categorie": "Village",
+          "coords": { "lat": 37.8643, "lng": -25.7801 }
+        },
+        {
+          "nom_recherche": "Ponta da Ferraria, Ginetes",
+          "categorie": "Piscine naturelle thermale",
+          "coords": { "lat": 37.8633, "lng": -25.8983 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil pour Ferraria",
+          "texte": "Vérifiez les horaires des marées avant de vous rendre à Ferraria. La baignade est plus agréable et l'eau plus chaude à marée basse."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez de vos dernières heures à Ponta Delgada pour quelques achats de souvenirs ou une dernière promenade. Le temps de dire au revoir à cette île magnifique, riche en paysages volcaniques et en moments de pure détente. Un retour en douceur vers Paris.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛍️ Visite du Mercado da Graça</strong>: Explorez le marché local pour découvrir les produits frais, les fromages et les ananas des Açores. Idéal pour acheter des souvenirs gourmands.",
+        "<strong>☕ Dernier café açorien</strong>: Savourez un dernier café ou une pâtisserie locale dans un des charmants cafés de Ponta Delgada.",
+        "<strong>🛫 Départ de Ponta Delgada</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, France."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercado da Graça, Ponta Delgada",
+          "categorie": "Marché",
+          "coords": { "lat": 37.7885, "lng": -25.6706 }
+        },
+        {
+          "nom_recherche": "Aéroport João Paulo II, Ponta Delgada",
+          "categorie": "Aéroport",
+          "coords": { "lat": 37.7412, "lng": -25.6977 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍍",
+          "titre": "Souvenirs gourmands",
+          "texte": "N'oubliez pas de rapporter un ananas des Açores, réputé pour sa douceur et son parfum unique. Il se conserve très bien."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "540 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "50-70 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "160-200 €/pers (40-50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "150-200 €/pers (3 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "20-30 €/pers (entrées parcs, musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Octobre", "symbole": "☀️" },
+    { "titre": "Juin et Septembre (moins de foule)", "symbole": "🌸" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures varient entre 15 et 25°C de mai à octobre. Prévoir des couches de vêtements car le temps peut changer rapidement, ainsi qu'un imperméable léger.", "symbole": "🌦️" },
+    { "titre": "L'euro est la monnaie locale. Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Permis français suffisant pour la location de voiture. Conduite à droite, routes bien entretenues mais parfois sinueuses. Soyez vigilant.", "symbole": "🚗" },
+    { "titre": "La langue officielle est le portugais, mais l'anglais est couramment parlé dans les zones touristiques. Un \"bom dia\" ou \"obrigado\" sera toujours apprécié.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les Açores sont le seul endroit en Europe où l'on cultive le thé. La plantation de Gorreana, sur l'île de São Miguel, produit du thé depuis 1883 et est toujours en activité."
+    },
+    {
+      "symbole": "🐋",
+      "titre": "Un sanctuaire marin",
+      "texte": "Les Açores sont considérées comme l'un des plus grands sanctuaires de baleines au monde, avec plus de 20 espèces différentes qui fréquentent leurs eaux. C'est un paradis pour l'observation marine !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍲",
+      "titre": "Cozido das Furnas",
+      "description": "Un ragoût de viandes et légumes cuit lentement pendant des heures dans des marmites enfouies sous terre, utilisant la chaleur volcanique des caldeiras de Furnas. Une expérience culinaire unique !"
+    },
+    {
+      "symbole": "🍍",
+      "titre": "Ananás dos Açores",
+      "description": "L'ananas des Açores est plus petit, plus sucré et plus aromatique que les ananas tropicaux. Cultivé en serres, il est un véritable délice local à ne pas manquer."
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Bolo Lêvedo",
+      "description": "Un pain doux et légèrement sucré, souvent consommé au petit-déjeuner ou en collation. Il est délicieux grillé avec du beurre ou de la confiture, ou même garni de fromage et de jambon."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2026-05-21/2026-05-25", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Açores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Auto Rent Ponta Delgada", "url": "https://www.autorent-s-miguel.com/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/prev.local/index.jsp?localID=1&cidadeID=241", "symbole": "🌤️" }
+  ]
+}
